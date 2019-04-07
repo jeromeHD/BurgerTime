@@ -1,5 +1,5 @@
 body {
-  background: #f4e125;
+  background: lightblue;
   text-align: center;
   font-size: large;
   margin-top: 5%;
@@ -7,14 +7,14 @@ body {
 }
 
 h1 {
-  color: red;
+  color: black;
   background-color: white;
   width: 330px;
   height: 40px;
   margin-left: 500px;
   padding: 40px;
   border-block-end-color: 50px;
-  border: 10px solid red;
+  border: 10px solid black;
   font-size: -webkit-xxx-large;
 }
 
@@ -23,12 +23,12 @@ li {
   margin: 8px;
   width: max-content;
   display: inline-block;
-  background: #f4e125;
+  background: lightblue;
   font-size: x-large;
 }
 #addBurger {
   background-color: white;
-  color: #dc0909;
+  color: black;
   box-shadow: 5px 3px 0px 0px black;
   text-shadow: 0 0 black;
   font-size: x-large;
