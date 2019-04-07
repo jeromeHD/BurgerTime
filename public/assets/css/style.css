@@ -1,0 +1,35 @@
+body {
+  background: #f4e125;
+  text-align: center;
+  font-size: large;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+h1 {
+  color: red;
+  background-color: white;
+  width: 330px;
+  height: 40px;
+  margin-left: 500px;
+  padding: 40px;
+  border-block-end-color: 50px;
+  border: 10px solid red;
+  font-size: -webkit-xxx-large;
+}
+
+li {
+  padding: 5px;
+  margin: 8px;
+  width: max-content;
+  display: inline-block;
+  background: #f4e125;
+  font-size: x-large;
+}
+#addBurger {
+  background-color: white;
+  color: #dc0909;
+  box-shadow: 5px 3px 0px 0px black;
+  text-shadow: 0 0 black;
+  font-size: x-large;
+}
